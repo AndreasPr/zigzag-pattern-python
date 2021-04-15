@@ -1,1 +1,1 @@
-# Zigzag-Pattern-python
+# Zigzag-Pattern
