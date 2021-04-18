@@ -1,3 +1,3 @@
 # ZigZag-Pattern
 
-Implemented in Python
+Implementation in Python
